@@ -59,7 +59,7 @@ public class Viva {
                         }
                     }
                     //System.out.println(textkonten);
-                    db.insertBerita(feed, title, textkonten, arrtgl[0]+" WIB", "viva");
+                    db.insertBerita(feed, title, textkonten, arrtgl[0]+"WIB", "viva");
                 }
                 //db.hapusFeed(feed);
             }
