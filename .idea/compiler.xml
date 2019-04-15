@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="id.nontontivi.berita.BeritaNontonTivi.main" target="1.8" />
+      <module name="id.nontontivi.berita.BeritaNontonTivi.test" target="1.8" />
+      <module name="id.nontontivi.BeritaNontonTivi.main" target="1.8" />
+      <module name="id.nontontivi.BeritaNontonTivi.test" target="1.8" />
+      <module name="id.nontontivi.Crawler.main" target="1.8" />
+      <module name="id.nontontivi.Crawler.test" target="1.8" />
+      <module name="id.nontontivi.Parser.main" target="1.8" />
+      <module name="id.nontontivi.Parser.test" target="1.8" />
+      <module name="id.nontontivi.ParserNontonTivi.main" target="1.8" />
+      <module name="id.nontontivi.ParserNontonTivi.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
